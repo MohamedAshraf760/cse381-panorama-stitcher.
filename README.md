@@ -2,7 +2,7 @@
 
 Stitches two overlapping photos into a seamless panorama using SIFT feature matching, RANSAC homography estimation, and inverse warping.
 
-![demo](demo.png) 
+![demo](pexels-kyli-katja-2154618559-33529747.jpg) 
 
 ## Result
 RANSAC inliers: 142/158 matches (89.9%) · Final panorama: 1400×760 px (Update these numbers later if yours are different!)
